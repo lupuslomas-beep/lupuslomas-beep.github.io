@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#07120f"/>
+  <path d="M0 0h1200v630H0z" fill="url(#g)" opacity=".18"/>
+  <defs><pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0v44" fill="none" stroke="#9cff38" stroke-width="1"/></pattern></defs>
+  <circle cx="1010" cy="315" r="220" fill="none" stroke="#9cff38" opacity=".24"/>
+  <circle cx="1010" cy="315" r="150" fill="none" stroke="#9cff38" opacity=".24"/>
+  <text x="100" y="235" fill="#9cff38" font-family="monospace" font-size="28" letter-spacing="5">PENTESTER · CYBERSECURITY</text>
+  <text x="100" y="350" fill="#edf3e8" font-family="Arial, sans-serif" font-size="92" font-weight="700">Jersay</text>
+  <text x="100" y="415" fill="#9cff38" font-family="monospace" font-size="34">aka eva-camaleon</text>
+  <text x="100" y="475" fill="#9aac9f" font-family="Arial, sans-serif" font-size="28">Encuentro la brecha antes que ellos.</text>
+</svg>
